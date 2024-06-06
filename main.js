@@ -5,7 +5,7 @@ let questionScreen = document.getElementById("questionScreen");
 let running = false;
 let currentQuestion = 0;
 let guesses = 0;
-let = questionHeader
+let questionHeader = document.getElementsByTagName("h1")[1];
 
 let currentQuestionElement = document.getElementById("currentQuestion");
 
