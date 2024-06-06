@@ -1,4 +1,4 @@
-import questions from "./questions"
+import questions from "./questions.js"
 
 let titleScreen = document.getElementById("titleScreen");
 let questionScreen = document.getElementById("questionScreen");
